@@ -16,7 +16,7 @@ This repository contains experimental data from a **120-minute mesoscopic two-ph
   - **First 60 min (stimulus presentation)**: Gaussian noise videos with optical flow in **16 random motion directions**.  
   - **Second 60 min (spontaneous activity)**: Head-fixed, treadmill, quiet wakefulness.  
 
-⚠️ **This repository corresponds to a single mouse dataset.**  
+⚠️ **This repository corresponds to a single mouse dataset and a small subset of neurons**  
 
 Each dataset contains **8 imaging plane scanfields** (indexed `0–7`).  
 
