@@ -1,4 +1,4 @@
-# Mesoscopic Two-Photon Imaging Dataset (Stimulus and Spontaneous)
+# Mesoscopic Two-Photon Imaging Dataset (Stimulus (1hr) followed by resting state (1hr) )
 
 This repository contains experimental data from a **120-minute mesoscopic two-photon imaging session** of a single adult mouse. The dataset includes neural activity, behavioral measurements, stimulus recordings, anatomical assignments, and direction tuning analyses.  
 

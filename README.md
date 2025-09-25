@@ -9,7 +9,7 @@ Both datasets capture neural activity under different experimental conditions an
 
 ---
 
-## Dataset 1: Stimulus and Spontaneous
+## Dataset 1: Stimulus (1hr) followed by resting state (1hr)
 
 This dataset contains recordings of neural activity during two contrasting conditions:
 
