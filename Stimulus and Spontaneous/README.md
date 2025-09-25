@@ -1,10 +1,10 @@
-# 🧠 Mesoscopic Two-Photon Imaging Dataset (Stimulus and Spontaneous)
+# Mesoscopic Two-Photon Imaging Dataset (Stimulus and Spontaneous)
 
 This repository contains experimental data from a **120-minute mesoscopic two-photon imaging session** of a single adult mouse. The dataset includes neural activity, behavioral measurements, stimulus recordings, anatomical assignments, and direction tuning analyses.  
 
 ---
 
-## 📌 Overview  
+##  Overview  
 
 - **Subjects**: Five adult mice (10–12 weeks), expressing **GCaMP6s** in pyramidal neurons (F1 cross between BL6-SLC17a7-Cre × Ai162, JAX stocks 023527 & 031562).  
 - **Imaging**: Mesoscopic two-photon covering dorsal V1 and nearby extrastriate cortex.  
@@ -16,13 +16,13 @@ This repository contains experimental data from a **120-minute mesoscopic two-ph
   - **First 60 min (stimulus presentation)**: Gaussian noise videos with optical flow in **16 random motion directions**.  
   - **Second 60 min (spontaneous activity)**: Head-fixed, treadmill, quiet wakefulness.  
 
-⚠️ **This repository corresponds to a single mouse dataset and a small subset of neurons**  
+**This repository corresponds to a single mouse dataset and a small subset of neurons**  
 
 Each dataset contains **8 imaging plane scanfields** (indexed `0–7`).  
 
 ---
 
-## 📂 Repository Structure  
+## Repository Structure  
 
 ### 1. **Behavior & Stimulus Data**  
 File: `Behavior_Stimuli.pkl`  
@@ -43,7 +43,7 @@ Contains timestamps, treadmill velocity, pupil data, and alignment information.
 1. Match spontaneous events to `frame_stimulus_clock`.  
 2. Divide corresponding frame index by 4.  
 
-✅ Example: For `{animal_id: 24705, session: 3, scan_idx: 24}`, spontaneous activity = frames `26,905–50,052`.  
+Example: For `{animal_id: 24705, session: 3, scan_idx: 24}`, spontaneous activity = frames `26,905–50,052`.  
 
 ---
 
@@ -116,7 +116,7 @@ File format: `monet_movie_XXX`
 
 ---
 
-## 🔄 Reconstructing Raw Fluorescence  
+## Reconstructing Raw Fluorescence  
 
 1. Load cell pixel coordinates (`px_x`, `px_y`) from `Anatomy_with_mask`.  
 2. Get mask weights (`list_mask`) from `Fluorescence.pkl`.  
@@ -125,7 +125,7 @@ File format: `monet_movie_XXX`
 
 ---
 
-## 📑 Citation  
+## Citation  
 
 If you use this dataset, please cite:  
 ```
@@ -135,7 +135,7 @@ Available at: https://github.com/[your-repo-link]
 
 ---
 
-## 📬 Contact  
+## Contact  
 
 For questions or issues, please open a GitHub issue or contact:  
 - [Your Name / Lab]  
