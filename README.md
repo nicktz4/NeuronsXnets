@@ -4,8 +4,7 @@ This repository hosts datasets and accompanying documentation from two sets of e
 
 1. **Stimulus and Spontaneous** recordings
 2. **Passive Learning** sessions
-
-Both datasets capture neural activity under different experimental conditions and are intended to support analyses of brain dynamics, responses to stimuli, and learning-related processes.
+3. ** POC-neurolingo-kmeans** recodings
 
 ---
 
@@ -36,6 +35,17 @@ This dataset contains recordings from experiments investigating how neural respo
 - The dataset highlights how experience and repeated exposure can shape neural activity, even in the absence of reinforcement or task demands.
 
 **Use cases:** Analyzing neural plasticity, adaptation over repeated exposures, and dynamics of passive learning.
+
+---
+
+## Dataset 3: POC-neurolingo-kmeans
+
+This repository contains code, data, and results from applying **K-Means clustering** to a large resting-state fMRI dataset. The primary objective is to evaluate the reproducibility of brain connectivity patterns across different clustering distances.  
+
+
+### Overview of the Experiment
+We utilized a large resting-state fMRI dataset consisting of **20-minute recordings from 285 participants (~60 GB)**.  
+The dataset was originally described in [Lumaca et al. (2024)](https://www.nature.com/articles/s41467-024-52479-z). 
 
 ---
 
