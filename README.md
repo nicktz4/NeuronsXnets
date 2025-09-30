@@ -4,7 +4,7 @@ This repository hosts datasets and accompanying documentation from two sets of e
 
 1. **Stimulus and Spontaneous** recordings
 2. **Passive Learning** sessions
-3. ** POC-neurolingo-kmeans** recodings
+3. **POC-neurolingo-kmeans** recodings
 
 ---
 
