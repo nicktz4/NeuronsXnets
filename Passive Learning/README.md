@@ -78,6 +78,8 @@ To convert raw 2P imaging data into spike train estimates, we provide a reproduc
 
 ---
 
-## License
+## Contact  
 
-This dataset and pipeline are released under the **MIT License**.  
+For questions or issues, please open a GitHub issue or contact:  
+-  Maria Papadopouli, mgp@ics.forth.gr
+-  Nikolaos Tzanakis, csdp1396@csd.uoc.gr

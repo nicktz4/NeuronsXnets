@@ -130,7 +130,6 @@ File format: `monet_movie_XXX`
 If you use this dataset, please cite:  
 ```
 [Author(s)], [Year]. Mesoscopic two-photon imaging dataset of visual cortex. 
-Available at: https://github.com/[your-repo-link]
 ```
 
 ---
@@ -138,5 +137,5 @@ Available at: https://github.com/[your-repo-link]
 ## Contact  
 
 For questions or issues, please open a GitHub issue or contact:  
-- [Your Name / Lab]  
-- [Your Email / Lab Website]  
+-  Maria Papadopouli, mgp@ics.forth.gr
+-  Nikolaos Tzanakis, csdp1396@csd.uoc.gr
