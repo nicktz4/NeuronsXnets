@@ -1,0 +1,1 @@
+/usr/sbin/c++  -Wno-interference-size -O3 -DNDEBUG -O3 -march=native -fno-lto -mfma -Wl,-Bstatic -lbenchmark -Wl,-Bdynamic -Wl,--dependency-file=CMakeFiles/benchmark_distance.dir/link.d CMakeFiles/benchmark_distance.dir/benchmark_distance.cpp.o -o benchmark_distance   -L/build/src  -Wl,-rpath,/build/src -lbenchmark -lbenchmark_main -lpthread

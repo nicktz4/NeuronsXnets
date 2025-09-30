@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/data/project/neurolingo/dfc_k-mean/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

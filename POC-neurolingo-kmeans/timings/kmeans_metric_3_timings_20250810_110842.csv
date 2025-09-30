@@ -1,0 +1,14 @@
+filename,metric,k_value,time_ms
+neuralarch_conn_regressGS-True_nROI-232,3,3,8578
+neuralarch_conn_regressGS-True_nROI-232,3,4,8864
+neuralarch_conn_regressGS-True_nROI-232,3,5,9070
+neuralarch_conn_regressGS-True_nROI-232,3,6,10410
+neuralarch_conn_regressGS-True_nROI-232,3,7,11258
+neuralarch_conn_regressGS-True_nROI-232,3,8,12418
+neuralarch_conn_regressGS-False_nROI-232,3,3,9761
+neuralarch_conn_regressGS-False_nROI-232,3,4,10785
+neuralarch_conn_regressGS-False_nROI-232,3,5,12214
+neuralarch_conn_regressGS-False_nROI-232,3,6,12298
+neuralarch_conn_regressGS-False_nROI-232,3,7,12788
+neuralarch_conn_regressGS-False_nROI-232,3,8,14415
+Total runtime,132927

@@ -1,0 +1,1 @@
+/usr/sbin/c++  -Wno-interference-size -O3 -DNDEBUG -O3 -march=native -fno-lto -mfma -Wl,--dependency-file=CMakeFiles/test_distance.dir/link.d CMakeFiles/test_distance.dir/test_distance.cpp.o -o test_distance   -L/build/src  -Wl,-rpath,/build/src /usr/local/lib64/libgtest.a /usr/local/lib64/libgtest_main.a /usr/local/lib64/libgtest.a

@@ -1,0 +1,12 @@
+/data/project/neurolingo/dfc_k-mean/build/CMakeFiles/cluster.dir
+/data/project/neurolingo/dfc_k-mean/build/CMakeFiles/text2binary.dir
+/data/project/neurolingo/dfc_k-mean/build/CMakeFiles/binary2text.dir
+/data/project/neurolingo/dfc_k-mean/build/CMakeFiles/cmpbin2txt.dir
+/data/project/neurolingo/dfc_k-mean/build/CMakeFiles/mat2binary.dir
+/data/project/neurolingo/dfc_k-mean/build/CMakeFiles/benchmark_distance.dir
+/data/project/neurolingo/dfc_k-mean/build/CMakeFiles/test_distance.dir
+/data/project/neurolingo/dfc_k-mean/build/CMakeFiles/createdata.dir
+/data/project/neurolingo/dfc_k-mean/build/CMakeFiles/cmpresults.dir
+/data/project/neurolingo/dfc_k-mean/build/CMakeFiles/test.dir
+/data/project/neurolingo/dfc_k-mean/build/CMakeFiles/edit_cache.dir
+/data/project/neurolingo/dfc_k-mean/build/CMakeFiles/rebuild_cache.dir

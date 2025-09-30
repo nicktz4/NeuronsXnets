@@ -1,0 +1,1 @@
+/usr/sbin/c++  -Wno-interference-size -O3 -DNDEBUG -O3 -march=native -fno-lto -mfma -Wl,--dependency-file=CMakeFiles/mat2binary.dir/link.d CMakeFiles/mat2binary.dir/mat2binary.cpp.o -o mat2binary  /usr/lib64/libmatio.so -lz /usr/lib/gcc/x86_64-redhat-linux/15/libgomp.so /usr/lib64/libpthread.a
